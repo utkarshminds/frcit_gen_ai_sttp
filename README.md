@@ -1,6 +1,16 @@
 # frcit_gen_ai_sttp
 Gen AI apps using OPEN AI
 
+#Steps 1- first login to github.com and copy the repository link
+
+https://github.com/utkarshminds/frcit_gen_ai_sttp.git
+
+#Step 2 - open vs code and click on clone git repository
+#Step 3- select a folder on local PC where the repository will be cloned
+#Step 4- click on open repository
+#Step 5 - click ÿes i trust the authors
+
+
 #Create virtual environment
 #Virtual environment - container for your project
 # Step 1 -  pip install virtualenv (to install the library)
@@ -17,6 +27,7 @@ Gen AI apps using OPEN AI
 # Step 10 - type git branch pranav (git branch BRANCH_NAME)
 # Step 11 - type git checkout pranav (git checkout BRANCH_NAME)
 # Step 12 - type git status (Verify if you are in your branch)
+# Step 13 - commit the files to remote repo
 '''
 If any problem in creating virtual env then
 

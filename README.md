@@ -37,3 +37,6 @@ Right-click on the PowerShell icon and select "Run as administrator".
 Set-ExecutionPolicy RemoteSigned
 Select "ÿes"
 '''
+
+# step 14 - write a basic program in main.py
+# step 15 - go to https://streamlit.io/cloud

@@ -6,7 +6,7 @@ import openai
 
 import hmac
 import streamlit as st
-from service.call_openai import process_subject
+from services.call_openai import process_subject
 
 def check_password():
     """Returns `True` if the user had a correct password."""

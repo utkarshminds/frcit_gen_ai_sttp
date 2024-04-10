@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 myenv/
+secrets.toml
 
 # C extensions
 *.so
